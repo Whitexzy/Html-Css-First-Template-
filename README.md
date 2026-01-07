@@ -20,8 +20,7 @@ My First HTML & CSS Template – a simple, clean starting point for beginners to
 
 ---
 
-## Preview
-![Preview](preview-image.png) <!-- Optional: add a screenshot of your template -->
+
 
 ---
 
